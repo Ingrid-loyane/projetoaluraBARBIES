@@ -39,3 +39,8 @@ display: block;
 strong{
   color: rgb(248, 241, 241);
 }
+
+.barbieLogo {
+  width: 25vw;
+  height: 30vh;
+}
