@@ -38,6 +38,7 @@ body {
   color: var(--branco-principal);
 text-decoration: none;
 display: block;
+font-family: var(--font-phudu);
 }
 strong{
   color: rgb(248, 241, 241);
