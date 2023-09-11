@@ -55,4 +55,9 @@ strong{
 
  .container__titulo{
   font-size: 28px;
+  font-weight: 700;
+ }
+ .container__aviso{
+  font-size: 13px;
+  color: var(--cinza-secundario);
  }
