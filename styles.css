@@ -52,3 +52,7 @@ strong{
   background-color: transparent;
   border: 3px solid var(--botao);
  }
+
+ .container__titulo{
+  font-size: 28px;
+ }
