@@ -61,8 +61,10 @@ strong{
   font-size: 12px;
   color: #813056;
  }
-
  .principal{
   align-items: center;
   text-align: center;
+ }
+ .container__caixa{
+  margin: 3%;
  }
