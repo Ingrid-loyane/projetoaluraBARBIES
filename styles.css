@@ -64,3 +64,7 @@ strong{
  .container__caixa{
   background-color: #faa3d1;
  }
+ .principal{
+  align-items: center;
+  text-align: center;
+ }
